@@ -1,0 +1,110 @@
+# ==============================================================================
+# Git Ignore Rules — SENTINEL X / THREAT-AI
+# ==============================================================================
+
+# Python Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Byte-compiled / Optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Distribution / Packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Secrets & Local Configurations
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+*.cert
+!.env.example
+
+# Node / JavaScript Frontend
+node_modules/
+*/node_modules/
+sentinel-dashboard/node_modules/
+sentinel-dashboard/dist/
+dist/
+dist-ssr/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Deep Learning Weights & Checkpoints
+runs/
+*.pth
+*.ckpt
+*.h5
+*.keras
+*.onnx
+# Ultralytics model weights
+*.pt
+!yolov8n.pt
+!yolov8n-pose.pt
+
+# Databases & Vector Stores
+.chroma/
+chroma_db/
+*.sqlite
+*.sqlite3
+*.db
+
+# Operating System Artifacts
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# IDEs & Text Editors
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Logs & Temporary Files
+*.log
+broker.log
+gateway.log
+commander.log
+rag.log
+kg.log
+prediction.log
+tactical.log
+geo.log
+tmp/
+temp/

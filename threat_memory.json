@@ -1,0 +1,1263 @@
+[
+    {
+        "type": "CRITICAL_ALERT",
+        "visual_event": "scissors",
+        "risk_score": 98.55000000000001,
+        "context_details": [
+            "RestrictedZone",
+            "Sustained(100%)"
+        ],
+        "timestamp": "13:25:49"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "visual_event": "scissors",
+        "risk_score": 100,
+        "context_details": [
+            "Sustained(100%)"
+        ],
+        "timestamp": "13:25:50"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "visual_event": "knife",
+        "risk_score": 100,
+        "context_details": [
+            "Sustained(100%)"
+        ],
+        "timestamp": "13:25:51"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "visual_event": "scissors",
+        "risk_score": 100,
+        "context_details": [
+            "Sustained(100%)"
+        ],
+        "timestamp": "13:25:52"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "visual_event": "knife",
+        "risk_score": 100,
+        "context_details": [
+            "Sustained(100%)"
+        ],
+        "timestamp": "13:25:53"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "visual_event": "knife",
+        "risk_score": 100,
+        "context_details": [
+            "Sustained(100%)"
+        ],
+        "timestamp": "13:25:54"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "visual_event": "scissors",
+        "risk_score": 100,
+        "context_details": [
+            "Sustained(100%)",
+            "HistoryMatch(x3)"
+        ],
+        "timestamp": "13:25:55"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "visual_event": "knife",
+        "risk_score": 100,
+        "context_details": [
+            "Sustained(100%)",
+            "HistoryMatch(x3)"
+        ],
+        "timestamp": "13:25:56"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "visual_event": "knife",
+        "risk_score": 100,
+        "context_details": [
+            "Sustained(100%)",
+            "HistoryMatch(x4)"
+        ],
+        "timestamp": "13:25:57"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "visual_event": "scissors",
+        "risk_score": 100,
+        "context_details": [
+            "Sustained(100%)",
+            "HistoryMatch(x4)"
+        ],
+        "timestamp": "13:25:58"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "visual_event": "knife",
+        "risk_score": 100,
+        "context_details": [
+            "Sustained(100%)",
+            "HistoryMatch(x5)"
+        ],
+        "timestamp": "13:25:59"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "visual_event": "scissors",
+        "risk_score": 100,
+        "context_details": [
+            "Sustained(100%)",
+            "HistoryMatch(x5)"
+        ],
+        "timestamp": "13:26:00"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "visual_event": "knife",
+        "risk_score": 100,
+        "context_details": [
+            "Sustained(100%)",
+            "HistoryMatch(x6)"
+        ],
+        "timestamp": "13:26:01"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "visual_event": "scissors",
+        "risk_score": 100,
+        "context_details": [
+            "Sustained(100%)",
+            "HistoryMatch(x6)"
+        ],
+        "timestamp": "13:26:02"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "visual_event": "scissors",
+        "risk_score": 100,
+        "context_details": [
+            "Sustained(100%)",
+            "HistoryMatch(x7)"
+        ],
+        "timestamp": "13:26:03"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "visual_event": "knife",
+        "risk_score": 100,
+        "context_details": [
+            "Sustained(100%)",
+            "HistoryMatch(x7)"
+        ],
+        "timestamp": "13:26:04"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "visual_event": "scissors",
+        "risk_score": 100,
+        "context_details": [
+            "Sustained(100%)",
+            "HistoryMatch(x8)"
+        ],
+        "timestamp": "13:26:05"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "visual_event": "knife",
+        "risk_score": 100,
+        "context_details": [
+            "Sustained(100%)",
+            "HistoryMatch(x8)"
+        ],
+        "timestamp": "13:26:06"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "visual_event": "scissors",
+        "risk_score": 100,
+        "context_details": [
+            "Sustained(100%)",
+            "HistoryMatch(x9)"
+        ],
+        "timestamp": "13:26:07"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "visual_event": "knife",
+        "risk_score": 100,
+        "context_details": [
+            "Sustained(100%)",
+            "HistoryMatch(x9)"
+        ],
+        "timestamp": "13:26:08"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "visual_event": "knife",
+        "risk_score": 100,
+        "context_details": [
+            "Sustained(100%)",
+            "HistoryMatch(x10)"
+        ],
+        "timestamp": "13:26:09"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "visual_event": "scissors",
+        "risk_score": 100,
+        "context_details": [
+            "Sustained(100%)",
+            "HistoryMatch(x10)"
+        ],
+        "timestamp": "13:26:10"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "visual_event": "knife",
+        "risk_score": 100,
+        "context_details": [
+            "Sustained(100%)",
+            "HistoryMatch(x11)"
+        ],
+        "timestamp": "13:26:11"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "visual_event": "scissors",
+        "risk_score": 100,
+        "context_details": [
+            "Sustained(100%)",
+            "HistoryMatch(x11)"
+        ],
+        "timestamp": "13:26:12"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "visual_event": "scissors",
+        "risk_score": 100,
+        "context_details": [
+            "Sustained(100%)",
+            "HistoryMatch(x12)"
+        ],
+        "timestamp": "13:26:13"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "visual_event": "knife",
+        "risk_score": 100,
+        "context_details": [
+            "Sustained(100%)",
+            "HistoryMatch(x12)"
+        ],
+        "timestamp": "13:26:14"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "visual_event": "scissors",
+        "risk_score": 100,
+        "context_details": [
+            "Sustained(100%)",
+            "HistoryMatch(x13)"
+        ],
+        "timestamp": "13:26:15"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "visual_event": "knife",
+        "risk_score": 100,
+        "context_details": [
+            "Sustained(100%)",
+            "HistoryMatch(x13)"
+        ],
+        "timestamp": "13:26:16"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "visual_event": "knife",
+        "risk_score": 100,
+        "context_details": [
+            "Sustained(100%)",
+            "HistoryMatch(x14)"
+        ],
+        "timestamp": "13:26:17"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "visual_event": "scissors",
+        "risk_score": 100,
+        "context_details": [
+            "Sustained(100%)",
+            "HistoryMatch(x14)"
+        ],
+        "timestamp": "13:26:18"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "visual_event": "knife",
+        "risk_score": 100,
+        "context_details": [
+            "Sustained(100%)",
+            "HistoryMatch(x15)"
+        ],
+        "timestamp": "13:26:19"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "visual_event": "scissors",
+        "risk_score": 100,
+        "context_details": [
+            "Sustained(100%)",
+            "HistoryMatch(x15)"
+        ],
+        "timestamp": "13:26:20"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "visual_event": "knife",
+        "risk_score": 100,
+        "context_details": [
+            "Sustained(100%)",
+            "HistoryMatch(x16)"
+        ],
+        "timestamp": "13:26:21"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "visual_event": "knife",
+        "risk_score": 100,
+        "context_details": [
+            "Sustained(100%)",
+            "HistoryMatch(x17)"
+        ],
+        "timestamp": "13:26:22"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "visual_event": "knife",
+        "risk_score": 100,
+        "context_details": [
+            "Sustained(100%)",
+            "HistoryMatch(x18)"
+        ],
+        "timestamp": "13:26:23"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "visual_event": "knife",
+        "risk_score": 100,
+        "context_details": [
+            "Sustained(100%)",
+            "HistoryMatch(x19)"
+        ],
+        "timestamp": "13:26:24"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "visual_event": "knife",
+        "risk_score": 100,
+        "context_details": [
+            "Sustained(100%)",
+            "HistoryMatch(x20)"
+        ],
+        "timestamp": "13:26:25"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "visual_event": "knife",
+        "risk_score": 100,
+        "context_details": [
+            "Sustained(100%)",
+            "HistoryMatch(x21)"
+        ],
+        "timestamp": "13:26:26"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "visual_event": "knife",
+        "risk_score": 100,
+        "context_details": [
+            "Sustained(100%)",
+            "HistoryMatch(x22)"
+        ],
+        "timestamp": "13:26:27"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "visual_event": "knife",
+        "risk_score": 100,
+        "context_details": [
+            "Sustained(100%)",
+            "HistoryMatch(x23)"
+        ],
+        "timestamp": "13:26:28"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "visual_event": "knife",
+        "risk_score": 100,
+        "context_details": [
+            "Sustained(100%)",
+            "HistoryMatch(x24)"
+        ],
+        "timestamp": "13:26:29"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "visual_event": "knife",
+        "risk_score": 100,
+        "context_details": [
+            "Sustained(100%)",
+            "HistoryMatch(x25)"
+        ],
+        "timestamp": "13:26:30"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "visual_event": "knife",
+        "risk_score": 98.28,
+        "context_details": [
+            "RestrictedZone",
+            "Sustained(100%)",
+            "HistoryMatch(x26)"
+        ],
+        "timestamp": "13:32:20"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "visual_event": "knife",
+        "risk_score": 91.53,
+        "context_details": [
+            "RestrictedZone",
+            "Sustained(100%)",
+            "HistoryMatch(x27)"
+        ],
+        "timestamp": "21:01:24"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "visual_event": "knife",
+        "risk_score": 94.5,
+        "context_details": [
+            "RestrictedZone",
+            "Crowd(3)",
+            "ImmediateProximity",
+            "Sustained(100%)",
+            "HistoryMatch(x28)"
+        ],
+        "timestamp": "21:06:15"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "visual_event": "knife",
+        "risk_score": 84.24000000000001,
+        "context_details": [
+            "RestrictedZone",
+            "Crowd(3)",
+            "ImmediateProximity",
+            "Sustained(100%)",
+            "HistoryMatch(x29)"
+        ],
+        "timestamp": "21:22:48"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "risk_score": 100,
+        "context_details": [
+            "Aggressive(x1, 95%)"
+        ],
+        "timestamp": "14:10:56",
+        "visual_event": "Aggressive(x1, 95%)"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "risk_score": 80.0,
+        "context_details": [
+            "Aggressive(x1, 100%)"
+        ],
+        "timestamp": "14:11:49",
+        "visual_event": "Aggressive(x1, 100%)"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "risk_score": 100,
+        "context_details": [
+            "Aggressive(x1, 95%)"
+        ],
+        "timestamp": "14:12:44",
+        "visual_event": "Aggressive(x1, 95%)"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "risk_score": 100,
+        "context_details": [
+            "Aggressive(x1, 90%)"
+        ],
+        "timestamp": "14:17:48",
+        "visual_event": "Aggressive(x1, 90%)"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "risk_score": 80.0,
+        "context_details": [
+            "Aggressive(x1, 100%)"
+        ],
+        "timestamp": "14:18:25",
+        "visual_event": "Aggressive(x1, 100%)"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "risk_score": 100,
+        "context_details": [
+            "Aggressive(x1, 95%)"
+        ],
+        "timestamp": "14:23:12",
+        "visual_event": "Aggressive(x1, 95%)"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "risk_score": 94.0,
+        "visual_event": "HOSTILE INTENT",
+        "context_details": [
+            "Aggressive(x1, 85%)",
+            "RapidEscalation(37.75s)"
+        ],
+        "people": [
+            {
+                "id": 11,
+                "box": [
+                    93,
+                    79,
+                    521,
+                    480
+                ],
+                "action": {
+                    "label": "AGGRESSIVE",
+                    "confidence": 0.85,
+                    "transition": {
+                        "type": "ESCALATION",
+                        "duration": 37.75,
+                        "velocity": "LOW"
+                    }
+                }
+            }
+        ],
+        "timestamp": "13:07:47"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "risk_score": 94.0,
+        "visual_event": "HOSTILE INTENT",
+        "context_details": [
+            "Aggressive(x1, 85%)",
+            "RapidEscalation(1.37s)"
+        ],
+        "people": [
+            {
+                "id": 11,
+                "box": [
+                    14,
+                    143,
+                    517,
+                    480
+                ],
+                "action": {
+                    "label": "AGGRESSIVE",
+                    "confidence": 0.85,
+                    "transition": {
+                        "type": "ESCALATION",
+                        "duration": 1.37,
+                        "velocity": "HIGH"
+                    }
+                }
+            }
+        ],
+        "timestamp": "13:07:59"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "risk_score": 98.0,
+        "visual_event": "HOSTILE INTENT",
+        "context_details": [
+            "Aggressive(x1, 95%)",
+            "RapidEscalation(136.1s)"
+        ],
+        "people": [
+            {
+                "id": 42,
+                "box": [
+                    31,
+                    2,
+                    626,
+                    480
+                ],
+                "action": {
+                    "label": "AGGRESSIVE",
+                    "confidence": 0.95,
+                    "transition": {
+                        "type": "ESCALATION",
+                        "duration": 136.1,
+                        "velocity": "LOW"
+                    }
+                }
+            },
+            {
+                "id": 97,
+                "box": [
+                    0,
+                    0,
+                    81,
+                    133
+                ],
+                "action": {
+                    "label": "NEUTRAL",
+                    "confidence": 0.0,
+                    "transition": null
+                }
+            },
+            {
+                "id": 98,
+                "box": [
+                    0,
+                    0,
+                    195,
+                    480
+                ],
+                "action": {
+                    "label": "NEUTRAL",
+                    "confidence": 0.0,
+                    "transition": null
+                }
+            }
+        ],
+        "timestamp": "13:11:05"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "risk_score": 90.0,
+        "visual_event": "HOSTILE INTENT",
+        "context_details": [
+            "Aggressive(x1, 75%)",
+            "RapidEscalation(0.0s)"
+        ],
+        "people": [
+            {
+                "id": 154,
+                "box": [
+                    0,
+                    3,
+                    138,
+                    479
+                ],
+                "action": {
+                    "label": "NEUTRAL",
+                    "confidence": 0.0,
+                    "transition": null
+                }
+            },
+            {
+                "id": 159,
+                "box": [
+                    105,
+                    61,
+                    554,
+                    480
+                ],
+                "action": {
+                    "label": "AGGRESSIVE",
+                    "confidence": 0.75,
+                    "transition": {
+                        "type": "ESCALATION",
+                        "duration": 0.0,
+                        "velocity": "HIGH"
+                    }
+                }
+            }
+        ],
+        "timestamp": "13:13:27"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "risk_score": 94.0,
+        "predicted_risk": 100,
+        "risk_velocity": 350.3247445856058,
+        "visual_event": "HOSTILE INTENT",
+        "context_details": [
+            "Aggressive(ID:1)",
+            "RapidEscalation(71.4s)"
+        ],
+        "people": [
+            {
+                "id": 1,
+                "box": [
+                    4,
+                    32,
+                    639,
+                    480
+                ],
+                "action": {
+                    "label": "AGGRESSIVE",
+                    "confidence": 0.85,
+                    "transition": {
+                        "type": "ESCALATION",
+                        "duration": 71.4,
+                        "velocity": "LOW"
+                    }
+                }
+            }
+        ],
+        "timestamp": "13:30:57"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "risk_score": 100,
+        "predicted_risk": 100,
+        "risk_velocity": 886.2297818393112,
+        "visual_event": "HOSTILE INTENT",
+        "context_details": [
+            "Aggressive(ID:1)",
+            "RapidEscalation(0.51s)"
+        ],
+        "people": [
+            {
+                "id": 1,
+                "box": [
+                    21,
+                    139,
+                    632,
+                    480
+                ],
+                "action": {
+                    "label": "AGGRESSIVE",
+                    "confidence": 0.85,
+                    "transition": {
+                        "type": "ESCALATION",
+                        "duration": 0.51,
+                        "velocity": "HIGH"
+                    }
+                }
+            },
+            {
+                "id": 80,
+                "box": [
+                    0,
+                    0,
+                    256,
+                    480
+                ],
+                "action": {
+                    "label": "NEUTRAL",
+                    "confidence": 0.0,
+                    "transition": null
+                }
+            },
+            {
+                "id": 103,
+                "box": [
+                    490,
+                    94,
+                    640,
+                    480
+                ],
+                "action": {
+                    "label": "NEUTRAL",
+                    "confidence": 0.0,
+                    "transition": null
+                }
+            }
+        ],
+        "timestamp": "13:31:17"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "risk_score": 100,
+        "predicted_risk": 100,
+        "risk_velocity": 440.10614666413437,
+        "visual_event": "HOSTILE INTENT",
+        "context_details": [
+            "Aggressive(ID:1)",
+            "RapidEscalation(191.22s)",
+            "Aggressive(ID:139)",
+            "RapidEscalation(0.08s)"
+        ],
+        "people": [
+            {
+                "id": 1,
+                "box": [
+                    79,
+                    7,
+                    640,
+                    480
+                ],
+                "action": {
+                    "label": "AGGRESSIVE",
+                    "confidence": 0.85,
+                    "transition": {
+                        "type": "ESCALATION",
+                        "duration": 191.22,
+                        "velocity": "LOW"
+                    }
+                }
+            },
+            {
+                "id": 139,
+                "box": [
+                    0,
+                    285,
+                    60,
+                    479
+                ],
+                "action": {
+                    "label": "AGGRESSIVE",
+                    "confidence": 0.75,
+                    "transition": {
+                        "type": "ESCALATION",
+                        "duration": 0.08,
+                        "velocity": "HIGH"
+                    }
+                }
+            }
+        ],
+        "timestamp": "13:34:33"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "risk_score": 28,
+        "predicted_risk": 100,
+        "risk_velocity": 25.94013174454842,
+        "visual_event": "SCANNING...",
+        "context_details": [
+            "HighCrowdDensity"
+        ],
+        "people": [
+            {
+                "id": 11,
+                "box": [
+                    429,
+                    145,
+                    640,
+                    479
+                ],
+                "action": {
+                    "label": "NEUTRAL",
+                    "confidence": 0.0,
+                    "transition": null
+                }
+            },
+            {
+                "id": 1,
+                "box": [
+                    16,
+                    101,
+                    456,
+                    480
+                ],
+                "action": {
+                    "label": "NEUTRAL",
+                    "confidence": 0.0,
+                    "transition": null
+                }
+            },
+            {
+                "id": 35,
+                "box": [
+                    0,
+                    100,
+                    79,
+                    478
+                ],
+                "action": {
+                    "label": "NEUTRAL",
+                    "confidence": 0.0,
+                    "transition": null
+                }
+            },
+            {
+                "id": 31,
+                "box": [
+                    3,
+                    66,
+                    149,
+                    351
+                ],
+                "action": {
+                    "label": "NEUTRAL",
+                    "confidence": 0.0,
+                    "transition": null
+                }
+            }
+        ],
+        "timestamp": "21:12:01"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "risk_score": 46,
+        "predicted_risk": 100,
+        "risk_velocity": 25.732715727476304,
+        "visual_event": "SCANNING...",
+        "context_details": [
+            "HighCrowdDensity"
+        ],
+        "people": [
+            {
+                "id": 11,
+                "box": [
+                    427,
+                    144,
+                    638,
+                    479
+                ],
+                "action": {
+                    "label": "NEUTRAL",
+                    "confidence": 0.0,
+                    "transition": null
+                }
+            },
+            {
+                "id": 1,
+                "box": [
+                    5,
+                    103,
+                    444,
+                    480
+                ],
+                "action": {
+                    "label": "NEUTRAL",
+                    "confidence": 0.0,
+                    "transition": null
+                }
+            },
+            {
+                "id": 35,
+                "box": [
+                    0,
+                    49,
+                    85,
+                    478
+                ],
+                "action": {
+                    "label": "NEUTRAL",
+                    "confidence": 0.0,
+                    "transition": null
+                }
+            },
+            {
+                "id": 31,
+                "box": [
+                    12,
+                    55,
+                    162,
+                    334
+                ],
+                "action": {
+                    "label": "NEUTRAL",
+                    "confidence": 0.0,
+                    "transition": null
+                }
+            }
+        ],
+        "timestamp": "21:12:02"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "risk_score": 60,
+        "predicted_risk": 100,
+        "risk_velocity": 25.719051076271022,
+        "visual_event": "SCANNING...",
+        "context_details": [
+            "HighCrowdDensity"
+        ],
+        "people": [
+            {
+                "id": 11,
+                "box": [
+                    428,
+                    146,
+                    640,
+                    479
+                ],
+                "action": {
+                    "label": "NEUTRAL",
+                    "confidence": 0.0,
+                    "transition": null
+                }
+            },
+            {
+                "id": 1,
+                "box": [
+                    8,
+                    98,
+                    439,
+                    479
+                ],
+                "action": {
+                    "label": "NEUTRAL",
+                    "confidence": 0.0,
+                    "transition": null
+                }
+            },
+            {
+                "id": 38,
+                "box": [
+                    4,
+                    139,
+                    66,
+                    473
+                ],
+                "action": {
+                    "label": "NEUTRAL",
+                    "confidence": 0.0,
+                    "transition": null
+                }
+            },
+            {
+                "id": 31,
+                "box": [
+                    11,
+                    70,
+                    162,
+                    338
+                ],
+                "action": {
+                    "label": "NEUTRAL",
+                    "confidence": 0.0,
+                    "transition": null
+                }
+            }
+        ],
+        "timestamp": "21:12:04"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "risk_score": 84,
+        "predicted_risk": 100,
+        "risk_velocity": 13.048623911721288,
+        "visual_event": "SCANNING...",
+        "context_details": [
+            "HighCrowdDensity"
+        ],
+        "people": [
+            {
+                "id": 11,
+                "box": [
+                    424,
+                    145,
+                    637,
+                    479
+                ],
+                "action": {
+                    "label": "NEUTRAL",
+                    "confidence": 0.0,
+                    "transition": null
+                }
+            },
+            {
+                "id": 1,
+                "box": [
+                    0,
+                    106,
+                    426,
+                    480
+                ],
+                "action": {
+                    "label": "NEUTRAL",
+                    "confidence": 0.0,
+                    "transition": null
+                }
+            },
+            {
+                "id": 43,
+                "box": [
+                    2,
+                    119,
+                    68,
+                    474
+                ],
+                "action": {
+                    "label": "NEUTRAL",
+                    "confidence": 0.0,
+                    "transition": null
+                }
+            },
+            {
+                "id": 31,
+                "box": [
+                    0,
+                    50,
+                    163,
+                    352
+                ],
+                "action": {
+                    "label": "NEUTRAL",
+                    "confidence": 0.0,
+                    "transition": null
+                }
+            }
+        ],
+        "timestamp": "21:12:06"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "risk_score": 22,
+        "predicted_risk": 100,
+        "risk_velocity": 51.11458024858361,
+        "visual_event": "SCANNING...",
+        "context_details": [
+            "HighCrowdDensity"
+        ],
+        "people": [
+            {
+                "id": 1,
+                "box": [
+                    3,
+                    115,
+                    410,
+                    479
+                ],
+                "action": {
+                    "label": "NEUTRAL",
+                    "confidence": 0.0,
+                    "transition": null
+                }
+            },
+            {
+                "id": 66,
+                "box": [
+                    450,
+                    141,
+                    616,
+                    479
+                ],
+                "action": {
+                    "label": "NEUTRAL",
+                    "confidence": 0.0,
+                    "transition": null
+                }
+            },
+            {
+                "id": 73,
+                "box": [
+                    10,
+                    109,
+                    95,
+                    479
+                ],
+                "action": {
+                    "label": "NEUTRAL",
+                    "confidence": 0.0,
+                    "transition": null
+                }
+            },
+            {
+                "id": 46,
+                "box": [
+                    15,
+                    72,
+                    118,
+                    349
+                ],
+                "action": {
+                    "label": "NEUTRAL",
+                    "confidence": 0.0,
+                    "transition": null
+                }
+            }
+        ],
+        "timestamp": "21:12:30"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "risk_score": 26,
+        "predicted_risk": 100,
+        "risk_velocity": 46.90450469793854,
+        "visual_event": "SCANNING...",
+        "context_details": [
+            "HighCrowdDensity"
+        ],
+        "people": [
+            {
+                "id": 1,
+                "box": [
+                    16,
+                    121,
+                    409,
+                    480
+                ],
+                "action": {
+                    "label": "NEUTRAL",
+                    "confidence": 0.0,
+                    "transition": null
+                }
+            },
+            {
+                "id": 66,
+                "box": [
+                    435,
+                    140,
+                    630,
+                    479
+                ],
+                "action": {
+                    "label": "NEUTRAL",
+                    "confidence": 0.0,
+                    "transition": null
+                }
+            },
+            {
+                "id": 73,
+                "box": [
+                    0,
+                    126,
+                    89,
+                    479
+                ],
+                "action": {
+                    "label": "NEUTRAL",
+                    "confidence": 0.0,
+                    "transition": null
+                }
+            },
+            {
+                "id": 46,
+                "box": [
+                    12,
+                    76,
+                    120,
+                    346
+                ],
+                "action": {
+                    "label": "NEUTRAL",
+                    "confidence": 0.0,
+                    "transition": null
+                }
+            }
+        ],
+        "timestamp": "21:12:32"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "risk_score": 50,
+        "predicted_risk": 100,
+        "risk_velocity": 197.83967563059775,
+        "visual_event": "knife",
+        "context_details": [
+            "WeaponDetected:knife"
+        ],
+        "people": [],
+        "timestamp": "21:12:49"
+    },
+    {
+        "type": "CRITICAL_ALERT",
+        "risk_score": 100,
+        "predicted_risk": 100,
+        "risk_velocity": 110.49354420949365,
+        "visual_event": "knife",
+        "context_details": [
+            "WeaponDetected:knife"
+        ],
+        "people": [],
+        "timestamp": "21:12:49"
+    }
+]
